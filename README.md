@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jackkalvan
 - 👀 I’m interested in robotics, juggling and other circus skills, consciousness, juggling robots, balancing robots, conscious robots.
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on cool robots
+- 💞️ I’m looking to collaborate on cool robots.
 - 📫 How to reach me: jack@kalvan.net
 
 <!---
